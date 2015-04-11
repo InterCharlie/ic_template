@@ -1,0 +1,54 @@
+/*!
+ * Customize CSS for Inter Charlie Professional eBay Template / Bootstrap v3.3.2
+ * Copyright 2015 Inter Charlie
+ * http://intercharlie.co.uk
+ */
+
+
+.panel-danger2 {
+  border-color: #ebccd1;
+}
+.panel-danger2 > .panel-heading {
+  color: #fff;
+  background-color: #d9534f;
+  border-color: #d43f3a;
+}
+.panel-danger2 > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #d43f3a;
+}
+.panel-danger2 > .panel-heading .badge {
+  color: #d9534f;
+  background-color: #a94442;
+}
+.panel-danger2 > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: #d43f3a;
+}
+
+.filling-yellow {
+  color: #D8DF0A;
+}
+
+.filling-green {
+  color: #20E30E;
+}
+
+.filling-red {
+  color: #E3550E;
+}
+
+.filling-blue {
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+
+.titlecustom { 
+font-family: 'Lobster', cursive; 
+font-weight: 400; 
+font-size: 54px;
+}
+
+
+
+
+
+
